@@ -60,7 +60,7 @@ python main.py --data_root ./DressCode --output_dir ./output
 
 ---
 
-## 4. Output
+## Output
 
 After training, the output directory will contain:
 
