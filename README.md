@@ -60,11 +60,9 @@ python main.py --data_root ./DressCode --output_dir ./output
 
 ---
 
-## 📂 Output
+## 4. Output
 
 After training, the output directory will contain:
 
 * Trained model checkpoints
 * Intermediate results (e.g., synthesized images)
-
----
